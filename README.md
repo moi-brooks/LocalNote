@@ -93,6 +93,5 @@ MIT License – free to use, modify, and share.
 
 ---
 
-> Built by Othmane with 💻 and a love for minimal software.
+> Built by Othmane with 💻☕ and a love for minimal software.
 
-```
