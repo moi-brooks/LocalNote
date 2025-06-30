@@ -90,8 +90,6 @@ Click the export button (or use keyboard shortcut `Ctrl + E`) to download your c
 ![alt text](./screenshots/image.png)
 
 
-> *Coming soon...*
-
 ---
 
 ## 📃 License
