@@ -82,11 +82,11 @@ Click the export button (or use keyboard shortcut `Ctrl + E`) to download your c
 ---
 
 ## 📸 Screenshots
-![alt text](./screenshots/Screenshot From 2025-06-30 10-15-39.png)
-![alt text](./screenshots/Screenshot From 2025-06-30 10-16-42.png)
-![alt text](./screenshots/Screenshot From 2025-06-30 10-17-03.png)
-![alt text](./screenshots/Screenshot From 2025-06-30 10-17-23.png)
-![alt text](./screenshots/Screenshot From 2025-06-30 10-17-23.png)
+![alt text](./screenshots/Screenshot%20From%202025-06-30%2010-15-39.png)
+![alt text](./screenshots/Screenshot%20From%202025-06-30%2010-16-42.png)
+![alt text](./screenshots/Screenshot%20From%202025-06-30%2010-17-03.png)
+![alt text](./screenshots/Screenshot%20From%202025-06-30%2010-17-23.png)
+![alt text](./screenshots/Screenshot%20From%202025-06-30%2010-17-23.png)
 ![alt text](./screenshots/image.png)
 
 
